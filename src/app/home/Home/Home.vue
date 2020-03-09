@@ -5,22 +5,20 @@
       image="https://images.unsplash.com/photo-1549082984-1323b94df9a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=512&q=60"
       alternative
     >
-      <vue-headline level="2">Developer Experience</vue-headline>
+      <vue-headline level="2">About Us</vue-headline>
       <br />
-      <vue-headline level="3">Quick scaffolding</vue-headline>
-      <p>Create components, VueX connected components, modules - and their tests - right from the CLI!</p>
+      <vue-headline level="3">Quality Guaranteed</vue-headline>
+      <p>We work around the clock and don't stop until your app is delivered!</p>
       <br />
-      <vue-headline level="3">Instant feedback</vue-headline>
+      <vue-headline level="3">Lightspeed ahead!</vue-headline>
       <p>
-        Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the
-        CSS and TypeScript are reflected instantaneously without refreshing the page or restarting your server. Preserve
-        application state even when you update something in the underlying code!
+        We develop applications at lightning speeds! Need to get something up and running by next month? 
+        Check out the plethora of options we provide to get exactly what you need, when you need it!
       </p>
       <br />
-      <vue-headline level="3">Tons of use-cases</vue-headline>
+      <vue-headline level="3">Testomonials</vue-headline>
       <p>
-        e.g. HttpService with interceptors, vuex persist middleware, redirect scenarios, configs for different
-        environments, etc.
+        "Roman's Creations provides top notch service, hands down would hire them again!" - Awesome Client
       </p>
     </home-section>
 
@@ -32,19 +30,19 @@
       <br />
       <vue-headline level="3">SEO</vue-headline>
       <p>
-        We support SEO (document head tags management) and server-side-rendering for search engines that support
-        indexing of JavaScript content. (eg. Google)
+        Ready to tackle all your SEO needs to get you to the top of the search results. I can work with different solutions to get you up and running how you need.
+        Whether it's a PWA or some other type of website or app, I will assess your needs to make the right decision to get the job done.
       </p>
       <br />
       <vue-headline level="3">Best practices</vue-headline>
       <p>
-        A Common style guide, TypeScript, and the best test setup: Automatically guarantee code quality and non-breaking
-        changes.
+        I am always committed to implementing the best practices to all the solutions I provide. I keep things as simple as possible and even if I begin with a boilerplate, I always end with something to call my own.
       </p>
       <br />
-      <vue-headline level="3">i18n</vue-headline>
+      <vue-headline level="3">Accessible</vue-headline>
       <p>
-        Scalable apps need to support multiple languages, easily add and support multiple languages with vue-i18n.
+        I will always go out of my way to make sure that my apps and websites are accessible to everyone who visits. 
+        I enjoy staying up to date on what the best practices are and always want to provide the best user experience upon every visit!
       </p>
     </home-section>
 
@@ -56,20 +54,17 @@
       <br />
       <vue-headline level="3">Animations</vue-headline>
       <p>
-        A stable animations set up already included (<a href="http://animejs.com/" target="_blank" rel="noopener"
-          >anime.js</a
-        >).
+       
       </p>
       <br />
       <vue-headline level="3">Progressive-Web-App</vue-headline>
       <p>
-        Offline-first support with service-workers and a lighthouse score as high as possible (90+).
+        
       </p>
       <br />
       <vue-headline level="3">Design System</vue-headline>
       <p>
-        Includes a blueprint for a 100% customizable Design System with a huge amount of
-        <a href="/storybook" target="_blank" rel="noopener">components</a>.
+       
       </p>
     </home-section>
 
@@ -77,29 +72,18 @@
       image="https://images.unsplash.com/photo-1516381548400-349d680edb56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=512&q=60"
       flip
     >
-      <vue-headline level="2">Quick start</vue-headline>
+      <vue-headline level="2">Simple Solutions</vue-headline>
       <br />
-      <vue-headline level="3">Via <code>npx</code></vue-headline>
+      <vue-headline level="3">We focus on building the simplest solution possible for your specific situation and needs.</vue-headline>
       <br />
-      <ol>
-        <li>
-          Run <code>npx @vuesion/create [project-name]</code><br />
-          for example <code>npx @vuesion/create my-app</code>
-        </li>
-        <li>Change directory <code>cd my-app</code></li>
-        <li>Run <code>npm run dev</code></li>
-      </ol>
-      <br />
-      <br />
-      <vue-headline level="3">Via Git</vue-headline>
+      <vue-headline level="4"> I have some simple rules I always like to follow to make sure your app is in tip top shape.</vue-headline>
       <br />
       <ol>
         <li>
-          Download or clone (<code>git clone https://github.com/<br />vuesion/vuesion</code>) the repository
+          Your app should run pretty much anywhere, I make sure it will<br />
         </li>
-        <li>Change directory <code>cd vuesion</code></li>
-        <li>Install dependencies: <code>npm install</code></li>
-        <li>Run <code>npm run dev</code></li>
+        <li>Your project should be accessible and always use best practices</li>
+        <li>Your apps codebase should be easy to understand and never overcomplicated</li>
       </ol>
     </home-section>
   </div>

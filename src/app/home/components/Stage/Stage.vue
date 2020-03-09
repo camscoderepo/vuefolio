@@ -10,7 +10,7 @@
           <div :class="$style.subTitle">
             {{
               $t(
-                'App.core.description' /* The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices */,
+                'Software dev shop focused on bringing needs to clients and people who want to brand themselves.' /*  */,
               )
             }}
           </div>
@@ -39,6 +39,7 @@ import VueGridRow from '@components/VueGridRow/VueGridRow.vue';
 import VueGridItem from '@components/VueGridItem/VueGridItem.vue';
 import VueIconGithub from '@components/icons/VueIconGithub/VueIconGithub.vue';
 import VueHeadline from '@components/VueHeadline/VueHeadline.vue';
+
 
 export default {
   components: { VueHeadline, VueIconGithub, VueGridItem, VueGridRow, VueGrid },

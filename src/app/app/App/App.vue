@@ -2,17 +2,9 @@
   <div id="app" :class="$style.app">
     <vue-notification-stack />
 
-    <vue-navigation-progress :is-navigating="isNavigating" />
+   
 
-    <vue-nav-bar>
-      <vue-button slot="right" v-if="isAuthenticated === false" color="primary" @click="showLoginModal = true">
-        Login
-      </vue-button>
-
-      <vue-button slot="right" v-if="isAuthenticated" color="primary" @click="onLogout">
-        Logout
-      </vue-button>
-    </vue-nav-bar>
+ 
 
     <router-view :class="$style.content" />
 
@@ -28,12 +20,6 @@
     </vue-cookie-consent>
 
     <vue-sidebar>
-      <vue-sidebar-group title="Languages">
-        <vue-sidebar-group-item>
-          <vue-select name="lang" id="lang" :options="languages" @input="localeSwitch" :value="getLocale" />
-        </vue-sidebar-group-item>
-      </vue-sidebar-group>
-
       <vue-sidebar-group title="Navigation">
         <vue-sidebar-group-item to="/">
           <vue-icon-code />
