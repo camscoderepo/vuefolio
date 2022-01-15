@@ -54,7 +54,7 @@
     "helmet": "3.21.1",
     "lodash": "4.17.15",
     "lru-cache": "5.1.1",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "serve-favicon": "2.5.0",
     "three": "0.114.0",
     "vanta": "0.5.10",
